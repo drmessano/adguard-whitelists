@@ -1,0 +1,68 @@
+# drmessano's ADGuard Smart TV Whitelist
+# Homepage: https://github.com/drmessano/adguard-whitelist
+# Contribute: https://github.com/drmessano/adguard-whitelist/issues
+# Changelog: https://github.com/drmessano/adguard-whitelist/commits/main/smarttv.txt
+# License: https://mit-license.org/
+#
+# Last modified: 31 March 2022
+#
+
+#Panasonic
+@@||myhomescreen.tv^
+
+# Sony
+@@||sony.tv^
+@@||sony.net^
+@@||sony.com^
+@@||ndmdhs.com^
+@@||samba.tv^
+@@||sonyentertainmentnetwork.com^
+@@||playstation.net^
+
+# LG
+@@||lgappstv.com^
+@@||lgtvsdp.com^
+@@||lgsmartad.com^
+@@||lge.com^
+
+# Philips
+@@||nettvservices.com^
+@@||corio.com^
+
+# Samsung
+@@||samsung.com^
+@@||samsungrm.net^
+@@||samsungacr.com^
+@@||samsungosp.com^
+@@||samsungotn.net^
+@@||samsungqbe.com^
+@@||samsungcloudsolution.com^
+@@||samsungcloudsolution.net^
+@@||samsungadhub.com^
+@@||samsungads.com^
+@@||samsungyosemite.com^
+@@||samsungelectronics.com^
+
+# Vizio
+@@||vizio.com^
+
+# Hisense Smart TV
+@@||hismarttv.com^
+
+# Roku
+@@||roku.com^
+@@||ravm.tv^
+
+@@||netflix.com^
+@@||hulu.com^
+@@||spotify.com^
+@@||disneyplus.com^
+@@||hbo.com^
+@@||vudu.com^
+@@||deezer.com^
+
+# SiliconDust HDHomeRun
+@@||hdhomerun.com^
+
+Hulu, DisneyPlus, and others need this
+@@||conviva.com^
