@@ -1,13 +1,13 @@
 # drmessano's ADGuard Smart TV Whitelist
-# Homepage: https://github.com/drmessano/adguard-whitelist
-# Contribute: https://github.com/drmessano/adguard-whitelist/issues
-# Changelog: https://github.com/drmessano/adguard-whitelist/commits/main/smarttv.txt
+# Homepage: https://github.com/drmessano/adguard-whitelists
+# Contribute: https://github.com/drmessano/adguard-whitelists/issues
+# Changelog: https://github.com/drmessano/adguard-whitelists/commits/main/smarttv.txt
 # License: https://mit-license.org/
 #
-# Last modified: 31 March 2022
+# Last modified: 1 April 2022
 #
 
-#Panasonic
+# Panasonic
 @@||myhomescreen.tv^
 
 # Sony
