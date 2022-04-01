@@ -1,3 +1,12 @@
+# drmessano's ADGuard Trackers Whitelist
+# Homepage: https://github.com/drmessano/adguard-whitelists
+# Contribute: https://github.com/drmessano/adguard-whitelists/issues
+# Changelog: https://github.com/drmessano/adguard-whitelists/commits/main/trackers.txt
+# License: https://mit-license.org/
+#
+# Last modified: 1 April 2022
+#
+
 @@||520886.xyz^
 @@||8672.site^
 @@||a1webstrategy.com^
