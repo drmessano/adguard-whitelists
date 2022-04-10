@@ -39,6 +39,7 @@
 @@||dm-event.net^
 @@||dmpxs.com^
 @@||dratingmaject.com^
+@@||dynatrace-managed.com^
 @@||e1e.io^
 @@||efreecode.com^
 @@||emycewiw.xyz^
@@ -104,6 +105,7 @@
 @@||liveyield.com^
 @@||lltrck.com^
 @@||loloclicks.biz^
+@@||maggieeatstheangel.com^
 @@||matheranalytics.com^
 @@||mdhv.io^
 @@||mors22.com^
@@ -152,7 +154,6 @@
 @@||spinnaker-js.com^
 @@||stat.ovh^
 @@||summerhamster.com^
-@@||syteapi.com^
 @@||tagcachedataxrt.com^
 @@||tagcachestaticx.com^
 @@||tatpek.com^
@@ -163,6 +164,7 @@
 @@||trkbc.com^
 @@||tru.am^
 @@||truffle.bid^
+@@||trx-hub.com^
 @@||tryzens-analytics.com^
 @@||turboeagle.co^
 @@||turbolion.io^
@@ -4213,7 +4215,3 @@
 @@||stereotypedsugar.com^
 @@||stickssheep.com^
 @@||stickysheet.com^
-@@||stiffgame.com^$third-party
-@@||stiffstem.com^$third-party
-@@||stockingsneeze.com^
-@@||storescissors.com^
