@@ -1,3 +1,12 @@
+# drmessano's ADGuard Trackers List Whitelist
+# Homepage: https://github.com/drmessano/adguard-whitelists
+# Contribute: https://github.com/drmessano/adguard-whitelists/issues
+# Changelog: https://github.com/drmessano/adguard-whitelists/commits/main/trackers.txt
+# License: https://mit-license.org/
+#
+# Last modified: April 11 2022
+#
+
 @@||520886.xyz^
 @@||8672.site^
 @@||a1webstrategy.com^
@@ -4371,3 +4380,34 @@
 @@||wateryvan.com^
 @@||wearbasin.com^
 @@||wearywater.com^
+@@||wellgroomedbat.com^
+@@||wellmadefrog.com^
+@@||whineattempt.com^
+@@||whirlwealth.com^
+@@||whiskyqueue.com^
+@@||whisperingbadge.com^
+@@||whisperingcrib.com^
+@@||whisperingflesh.com^$third-party
+@@||wigglygeese.com^
+@@||wigglyindustry.com^
+@@||wildernesscamera.com^
+@@||wirecomic.com^
+@@||wistfulflight.com^
+@@||womanear.com^$third-party
+@@||workableachiever.com^
+@@||workoperation.com^
+@@||worriednumber.com^
+@@||wrapstretch.com^
+@@||wreckvolcano.com^
+@@||writewealth.com^
+@@||wrongpotato.com^
+@@||wryfinger.com^
+@@||wtaccesscontrol.com^
+@@||xovq5nemr.com^
+@@||youngmarble.com^
+@@||youthfulnoise.com^
+@@||zbwp6ghm.com^
+@@||zealousfield.com^
+@@||zestycrime.com^
+@@||zippywind.com^
+@@||zlp6s.pw^$third-party
