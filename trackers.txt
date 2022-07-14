@@ -4,7 +4,7 @@
 # Changelog: https://github.com/drmessano/adguard-whitelists/commits/main/trackers.txt
 # License: https://mit-license.org/
 #
-# Last modified: July 13 2022
+# Last modified: July 14 2022
 #
 
 @@||1cros.net^

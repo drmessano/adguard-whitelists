@@ -4,7 +4,7 @@
 # Changelog: https://github.com/drmessano/adguard-whitelists/commits/main/thirdparty.txt
 # License: https://mit-license.org/
 #
-# Last modified: July 13 2022
+# Last modified: July 14 2022
 #
 
 @@||100widgets.com^$third-party
@@ -1666,6 +1666,7 @@
 @@||snowplow.swm.digital^
 @@||soccer.ru/counter/
 @@||socialannex.com/c-sale-track/$script
+@@||solutions.invocacdn.com^
 @@||sourceforge.net/tracker/$~xmlhttprequest
 @@||southafricahome.com/statsmodulev2/
 @@||sp-wukong-tracker.b-cdn.net^
@@ -1774,7 +1775,6 @@
 @@||surveymonkey.com/collect/$third-party
 @@||surveymonkey.com/resp/api/metrics
 @@||surveywall-api.survata.com^$third-party
-@@||sv.aq.qq.com^
 @@||svc.dynamics.com/f/m/$third-party
 @@||svc.dynamics.com/t/w$third-party
 @@||svnlnk.com/aff/trk.html
