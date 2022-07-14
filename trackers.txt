@@ -1210,6 +1210,7 @@
 @@||glassboxcdn.com^$third-party
 @@||glassboxdigital.io^$third-party
 @@||glbtracker.com^$third-party
+@@||glia.com^$third-party
 @@||globalsiteanalytics.com^$third-party
 @@||globalviptraffic.com^$third-party
 @@||globalwebindex.net^$third-party
@@ -2150,6 +2151,7 @@
 @@||richard-group.com^$third-party
 @@||richmetrics.com^$third-party
 @@||rightmoveanalytics.co.uk^$third-party
+@@||riskid.security^$third-party
 @@||ritecounter.com^$third-party
 @@||rivrai.com^$third-party
 @@||rktch.com^$third-party
